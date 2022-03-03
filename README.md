@@ -180,7 +180,7 @@ psql -U keycloak keycloak
 	![image](figure/hyper-page.png)
 
 	* 결과확인
-		![image](figure/show-keycloak.png)
+		![image](figure/2show-keycloak.png)
 
 
 
