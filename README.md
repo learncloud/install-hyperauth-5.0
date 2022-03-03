@@ -236,7 +236,7 @@ psql -U keycloak keycloak
     --oidc-groups-claim=group
     --oidc-ca-file=/etc/kubernetes/pki/hyperauth.crt
     ```
-    ![image](figure/connect-oidc.png)
+    ![image](figure/2connect-oidc.png)
 
 
 	* 재시작후 결화 화면
