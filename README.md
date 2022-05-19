@@ -65,7 +65,7 @@ Storage: 5Gi
 	export HYPERAUTH_HOME=~/install-hyperauth-5.0
 	cd ${HYPERAUTH_HOME}
  	export POSTGRES_VERSION=9.6.2-alpine
-	export HYPERAUTH_VERSION=b1.1.1.10
+	export HYPERAUTH_VERSION=1.1.1.10 #b1.1.1.10이여야하는데 아래 b$를 
    	export REGISTRY=192.168.178.17:5000
 	
 	# <tag1>에는 설치할 hyperauth 버전 명시
